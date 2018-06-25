@@ -1,0 +1,17 @@
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\bin\Debug\GuitarHero.exe.config
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\bin\Debug\GuitarHero.exe
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\bin\Debug\GuitarHero.pdb
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.csprojResolveAssemblyReference.cache
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.GameOn.resources
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.Properties.Resources.resources
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.csproj.GenerateResource.Cache
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.exe
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.pdb
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.Form1.resources
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\bin\Debug\Interop.WMPLib.dll
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\bin\Debug\AxInterop.WMPLib.dll
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\Interop.WMPLib.dll
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\AxInterop.WMPLib.dll
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.csproj.ResolveComReference.cache
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.GameOver.resources
+D:\MiHHD\Fakultet\SEMESTAR 6\VP\Project\GuitarHero\GuitarHero\obj\Debug\GuitarHero.Scores.resources
